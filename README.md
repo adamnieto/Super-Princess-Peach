@@ -20,5 +20,5 @@ There are two modes in this game.
 
 If the sounds and images are not working try taking them out of their corresponding folders and then re-run mainModule.py
 
-![ScreenShot](https://raw.github.com/{adamnieto}/{Super-Princess-Peach}/{master}/{Images/ScreenShot.png/})
+![ScreenShot](Images/ScreenShot.png "Example")
 
