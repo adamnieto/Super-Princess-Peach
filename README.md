@@ -2,7 +2,8 @@
 A python based Super Princess Peach game that contains several mini-games in it such as Brick Break, Simon, and Snake.
 
 **Created by:** Sam Kustin, Adam Nieto, Amy Chen, Melissa Wolff
-##About the Game:
+
+## About the Game
 
 There are two modes in this game.
 
