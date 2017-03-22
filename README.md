@@ -18,5 +18,7 @@ There are two modes in this game.
 3. Start the game by running **mainModule.py**
 3. Have fun!
 
+If the sounds and images are not working try taking them out of their corresponding folders and then re-run mainModule.py
+
 ![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
 
