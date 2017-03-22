@@ -1,4 +1,4 @@
-# super-princess-peach
+# Super-Princess-Peach
 A python based Super Princess Peach game that contains several mini-games in it such as Brick Break, Simon, and Snake.
 
 ## Getting Started
