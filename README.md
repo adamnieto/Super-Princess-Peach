@@ -15,10 +15,10 @@ There are two modes in this game.
 ## Getting Started
 1. Install Python 3+ 
 2. Install pygame (https://www.pygame.org/wiki/GettingStarted)
-3. Start the game by running **mainModule.py**
-3. Have fun!
+3. Take the images and sounds out of their folders. Make sure they are on the same level as the **.py** files.
+4. Start the game by running **mainModule.py**
+5. Have fun!
 
-If the sounds and images are not working try taking them out of their corresponding folders and then re-run mainModule.py
 
 ![ScreenShot](Images/ScreenShot.png "Example")
 
