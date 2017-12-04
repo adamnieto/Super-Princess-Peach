@@ -2,7 +2,6 @@ from SpriteSheet import *
 import pygame
 import random
 
-
 class Snake:
     def __init__(self):
         pygame.init()
